@@ -1,6 +1,6 @@
 ## Peter's GitHub Contributions 
 
-<img height="110px" align="left" src="https://github-readme-stats.vercel.app/api?username=quicksln&include_all_commits=true&hide=contribs&hide_title=true&show_icons=true&rank_icon=github&theme=default#gh-light-mode-only"/> ![trophy](https://github-profile-trophy.vercel.app/?username=quicksln&rank=SECRET,SSS,SS,S,AAA,AA,A,B&&column=4&margin-w=10&margin-h=10)
+<img height="110px" align="left" src="https://github-readme-stats.vercel.app/api?username=quicksln&include_all_commits=true&hide=contribs&hide_title=true&show_icons=true&rank_icon=github&theme=default#gh-light-mode-only"/> ![trophy](https://github-profile-trophy.vercel.app/?username=quicksln&rank=SECRET,SSS,SS,S,AAA,AA,A,B&&column=4)
 
 > [!IMPORTANT]
 > Radzen Blazor 
